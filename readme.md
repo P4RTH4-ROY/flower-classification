@@ -26,17 +26,13 @@ Sequential([
     Dropout(0.5),
     Dense(128, activation='relu'),
     Dense(5, activation='softmax')
-])
+]) ```
 
-Total Parameters: 4,828,997
-
-Optimizer: Adam
-
-Loss Function: Categorical Crossentropy
-
+## Total Parameters: 4,828,997
+## Optimizer: Adam
+## Loss Function: Categorical Crossentropy
 Training
 Epochs: 10
-
 Batch Size: 32
 
 Training Time: ~35 minutes (on Colab GPU)
