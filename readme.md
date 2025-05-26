@@ -6,7 +6,7 @@ This project implements a **Convolutional Neural Network (CNN)** to classify flo
 
 ## 📁 Dataset
 
-- **Source**: Custom flower dataset stored on Google Drive  
+- **Source**: [Download a flower dataset stored on Google Drive  ](https://www.kaggle.com/datasets/alxmamaev/flowers-recognition)
 - **Classes**: 5 flower types *(specific names not shown in notebook)*  
 - **Total Images**: ~4,317  
   - **Training Set**: 3,457 images (80%)  
